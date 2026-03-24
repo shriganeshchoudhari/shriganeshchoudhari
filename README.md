@@ -1,13 +1,9 @@
-# 💫 About Me:🔭 I’m currently working on full-stack applications with a focus on building, deploying, and maintaining them end-to-end
-
-👯 I’m looking to collaborate on projects that involve scalable architectures, cloud deployment, and real-world usage
-
-🤝 I’m looking for help with improving system design, infrastructure optimization, and production-level best practices
-
-🌱 I’m currently learning more about cloud ecosystems, CI/CD pipelines, containerization, and performance tuning
-
-💬 Ask me about full-stack development, backend systems, deployment workflows, and automation
-
+# 💫 About Me:
+🔭 I’m currently working on full-stack applications with a focus on building, deploying, and maintaining them end-to-end <br><br>
+👯 I’m looking to collaborate on projects that involve scalable architectures, cloud deployment, and real-world usage <br><br>
+🤝 I’m looking for help with improving system design, infrastructure optimization, and production-level best practices <br><br>
+🌱 I’m currently learning more about cloud ecosystems, CI/CD pipelines, containerization, and performance tuning <br><br>
+💬 Ask me about full-stack development, backend systems, deployment workflows, and automation <br><br>
 ⚡ Fun fact: I don’t just build apps—I make sure they run, scale, and survive in production
 
 
